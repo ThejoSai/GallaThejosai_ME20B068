@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GallaThejosai_ME20B068/static/css/main.a617e044.chunk.css",
+    "main.js": "/GallaThejosai_ME20B068/static/js/main.b8124895.chunk.js",
+    "main.js.map": "/GallaThejosai_ME20B068/static/js/main.b8124895.chunk.js.map",
+    "runtime-main.js": "/GallaThejosai_ME20B068/static/js/runtime-main.38569962.js",
+    "runtime-main.js.map": "/GallaThejosai_ME20B068/static/js/runtime-main.38569962.js.map",
+    "static/js/2.d3def11d.chunk.js": "/GallaThejosai_ME20B068/static/js/2.d3def11d.chunk.js",
+    "static/js/2.d3def11d.chunk.js.map": "/GallaThejosai_ME20B068/static/js/2.d3def11d.chunk.js.map",
+    "static/js/3.a0cc883d.chunk.js": "/GallaThejosai_ME20B068/static/js/3.a0cc883d.chunk.js",
+    "static/js/3.a0cc883d.chunk.js.map": "/GallaThejosai_ME20B068/static/js/3.a0cc883d.chunk.js.map",
+    "index.html": "/GallaThejosai_ME20B068/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/GallaThejosai_ME20B068/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d3def11d.chunk.js.LICENSE.txt": "/GallaThejosai_ME20B068/static/js/2.d3def11d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GallaThejosai_ME20B068/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38569962.js",
+    "static/js/2.d3def11d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b8124895.chunk.js"
+  ]
+}
